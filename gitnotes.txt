@@ -6,5 +6,11 @@ git status
 git config
 git --oneline 
 git commit -m 
+git log
+git switch 
+git push origin 
+git branch
+git checkout -b 
+git branch bugfix
 
-z
+git merge 
