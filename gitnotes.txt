@@ -1,1 +1,10 @@
 Hi this is the intro to git and how to use the git and its commands and why they are used.
+
+commands
+git add 
+git status 
+git config
+git --oneline 
+git commit -m 
+
+z
